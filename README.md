@@ -135,6 +135,22 @@
 
 ---
 
+## 📊 Profile Summary
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raviwijerathna1&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raviwijerathna1&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raviwijerathna1&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raviwijerathna1&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raviwijerathna1&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -155,7 +171,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raviwijerathna1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raviwijerathna1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
