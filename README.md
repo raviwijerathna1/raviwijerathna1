@@ -167,11 +167,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raviwijerathna1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| 🥇 Achievement | 📝 Description |
+|:---:|:---|
+| 🌟 **50+ Projects** | Successfully delivered 50+ projects |
+| 🔐 **Security Expert** | OWASP Top 10 specialist |
+| ⛓️ **Web3 Pioneer** | DeFi & Smart Contract developer |
+| 🧠 **AI Engineer** | 95% accuracy ML models |
+| 🌍 **Open Source** | Active GitHub contributor |
+| 💡 **Tech Innovator** | Building cutting-edge solutions |
 
 </div>
 
