@@ -39,7 +39,7 @@
 | 💼 **Role** | Full Stack Developer & Tech Innovator |
 | ⏳ **Experience** | 3+ Years |
 | 🏆 **Projects** | 50+ Completed |
-| 💻 **Languages** | Python, JavaScript, TypeScript, Solidity |
+| 💻 **Languages** | Python, JavaScript, Solidity |
 | 🎯 **Interests** | Web3, AI/ML, Cybersecurity, DeFi |
 | 🟢 **Status** | Open to Work & New Opportunities |
 
