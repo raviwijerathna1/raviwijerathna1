@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-> 🚀 Passionate Full Stack Developer & Tech Innovator crafting cutting-edge solutions across Web3, Machine Learning, and Cybersecurity.
+> Im Ravishka Wijerathna, Blockchain Engineer and Full Stack Developer from Sri Lanka with a deep passion for emerging technologies. I specialize in crafting high-performance web applications, decentralized systems, and intelligent software solutions.My journey spans across multiple cutting-edge domains — from building Web3 DApps and smart contracts, to developing ML-powered applications and implementing cybersecurity solutions.
 
 | 🏷️ | Details |
 |:---:|:---|
